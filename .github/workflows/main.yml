@@ -1,4 +1,4 @@
-name: Setup TestPipeline
+name: Next Surely
 
 on:
   push:
