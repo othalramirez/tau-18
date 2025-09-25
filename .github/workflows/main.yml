@@ -1,4 +1,4 @@
-name: Next Surely
+name: Express Pipeline
 
 on:
   push:
